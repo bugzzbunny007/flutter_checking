@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>267611502256-5vptnhj5dlh8172987ddfo9ftnvr8c7f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.267611502256-5vptnhj5dlh8172987ddfo9ftnvr8c7f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>267611502256-ou2ubmj9i7i8rk6n42442636up0o27h7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4oupZVLQbLqFrscpwGGYstGROI3gf6PE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>267611502256</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ga.harshyadav.flutterchecking</string>
+	<key>PROJECT_ID</key>
+	<string>bunny-f701e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bunny-f701e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:267611502256:ios:585c83cf576d27f7cdad75</string>
+	<key>DATABASE_URL</key>
+	<string>https://bunny-f701e.firebaseio.com</string>
+</dict>
+</plist>

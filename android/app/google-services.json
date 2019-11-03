@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267611502256",
+    "firebase_url": "https://bunny-f701e.firebaseio.com",
+    "project_id": "bunny-f701e",
+    "storage_bucket": "bunny-f701e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267611502256:android:0b243e78c5905a36cdad75",
+        "android_client_info": {
+          "package_name": "ga.harshyadav.flutter_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267611502256-ou2ubmj9i7i8rk6n42442636up0o27h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ga.harshyadav.flutter_check",
+            "certificate_hash": "59cb0b2b313496b72ad16e0a96a09c609dcb7dba"
+          }
+        },
+        {
+          "client_id": "267611502256-b5d77e2i2ma2rf0gitqat4o8a6q4rq6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_lkqmB6bHYO6WwqdAiC8kGqGl_geCu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267611502256-b5d77e2i2ma2rf0gitqat4o8a6q4rq6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
